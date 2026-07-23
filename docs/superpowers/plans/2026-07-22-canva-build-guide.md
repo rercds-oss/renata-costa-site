@@ -47,10 +47,8 @@ Fotos a usar (já organizadas em `assets/site/`):
 - Fundo da seção: branco (#ffffff)
 - Label: linha terracota + `DEPOIMENTOS`
 - Título: `O que dizem as famílias` — Playfair Display, ~22px, cor #3d4a35
-- 3 citações, cada uma com borda esquerda terracota (2px), Playfair Display itálico, 13px, cor #5b5b52, com assinatura abaixo (Quicksand, 11px, cor #8a8a7d):
-  1. "Estou muito feliz com a evolução do meu filho Ricardo. Gratidão à terapeuta Renata pelo excelente trabalho que ela está desenvolvendo com meu filho. Uma profissional técnica, competente, dedicada e amorosa." — Mãe do R.
-  2. "A TO Renata é uma profissional completa, com muita sabedoria, experiência e domínio sobre o assunto — deixa nós, pais, mais confiantes e ainda nos capacita para o dia a dia." — Mãe de paciente
-  3. "Estamos colhendo o fruto do resultado das terapias diariamente — faz muita diferença em novas vidas." — Mãe de paciente
+- Citação com borda esquerda terracota (2px), texto placeholder em itálico: `"Espaço reservado — avaliações do Google a anexar aqui em breve."` — Playfair Display itálico, 13px, cor #5b5b52
+- (Renata vai coletar avaliações reais no Google e anexar aqui depois)
 
 ## 6. Contato
 - Fundo da seção: bege suave #EDE7D6
