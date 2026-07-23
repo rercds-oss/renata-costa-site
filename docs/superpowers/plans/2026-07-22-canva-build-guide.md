@@ -9,7 +9,7 @@ Fotos a usar (já organizadas em `assets/site/`):
 
 ## 1. Nav (topo, fixo)
 - Texto à esquerda: `Renata Costa` — fonte Playfair Display, ~20px, cor #3d4a35
-- Texto à direita: `Sobre · Serviços · Depoimentos · Contato` — fonte Quicksand, ~12px, cor #6b7563
+- Texto à direita: `Sobre · Serviços · Contato` — fonte Quicksand, ~12px, cor #6b7563
 - Fundo da barra: #F5F0E6, borda inferior fina #e5ddc8
 
 ## 2. Hero
@@ -43,21 +43,14 @@ Fotos a usar (já organizadas em `assets/site/`):
   4. AVDs — autonomia no dia a dia
 - Fonte dos itens: Quicksand, 13px, negrito, cor #3d4a35
 
-## 5. Depoimentos
-- Fundo da seção: branco (#ffffff)
-- Label: linha terracota + `DEPOIMENTOS`
-- Título: `O que dizem as famílias` — Playfair Display, ~22px, cor #3d4a35
-- Citação com borda esquerda terracota (2px), texto placeholder em itálico: `"Espaço reservado — avaliações do Google a anexar aqui em breve."` — Playfair Display itálico, 13px, cor #5b5b52
-- (Renata vai coletar avaliações reais no Google e anexar aqui depois)
-
-## 6. Contato
+## 5. Contato
 - Fundo da seção: bege suave #EDE7D6
 - Título: `Vamos conversar` — Playfair Display, ~24px, cor #3d4a35, centralizado
 - Subtítulo: `Tire suas dúvidas e agende uma conversa inicial` — Quicksand, 12.5px, cor #6b7563, centralizado
 - Botão sólido: `Fale no WhatsApp` — fundo #C97B4A, texto branco, cantos levemente arredondados. Linkar para `https://wa.me/5544988325654`
 - Abaixo do botão: `@renatacosta.to`, Quicksand, 11px, cor #8a8a7d
 
-## 7. Footer
+## 6. Footer
 - Fundo: verde escuro #3d4a35
 - Texto centralizado: `© Renata Costa · Terapeuta Ocupacional` — Quicksand, 10px, cor #F5F0E6 (opacidade reduzida)
 
