@@ -17,6 +17,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: 'Quicksand', sans-serif;
@@ -99,6 +103,15 @@ body {
   font-size: 10px;
   color: var(--text-body);
   letter-spacing: 0.5px;
+}
+
+.nav__links a {
+  color: var(--text-body);
+  text-decoration: none;
+}
+
+.nav__links a:hover {
+  color: var(--terracotta);
 }
 
 .hero {
