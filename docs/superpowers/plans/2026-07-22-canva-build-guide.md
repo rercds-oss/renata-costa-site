@@ -25,7 +25,12 @@ Fotos a usar (já organizadas em `assets/site/`):
 - Label: linha terracota + `SOBRE` (mesmo estilo da label do hero)
 - Título: `Quem é Renata` — Playfair Display, ~22px, cor #3d4a35
 - Foto opcional ao lado do texto: `02-sobre-atividade-terapeutica.jpg`
-- Corpo: `Formação em Terapia Ocupacional, especialização em integração sensorial e anos de experiência com crianças e famílias enfrentando seletividade alimentar. Uma escuta acolhedora, apoiada em evidência clínica.` — Quicksand, 12.5px, cor #5b5b52
+- Corpo: `Terapeuta ocupacional formada pela Universidade Federal de Santa Maria (2014–2019), com anos de experiência dedicados a crianças e famílias enfrentando seletividade alimentar. Uma escuta acolhedora, apoiada em evidência clínica.` — Quicksand, 12.5px, cor #5b5b52
+- Lista de formações complementares (texto pequeno, cor #8a8a7d, marcador "—" em terracota):
+  - Certificação Internacional em Integração Sensorial de Ayres — CLASI (2023)
+  - Pós-graduação em Terapia Ocupacional na Reabilitação Neuropediátrica — Faculdade Sudamérica (2022–2023)
+  - Pós-graduação em Autismo — Instituto Nacional de Ensino (2020–2021)
+  - Curso intensivo-prático método FOCUS — Gustavo Reinoso
 
 ## 4. Serviços
 - Fundo da seção: #F5F0E6

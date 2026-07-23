@@ -216,3 +216,25 @@ body {
   text-align: center;
   padding: 12px 24px;
 }
+
+.sobre__credentials {
+  list-style: none;
+  margin: 14px 0 0;
+  padding: 0;
+}
+
+.sobre__credentials li {
+  position: relative;
+  padding-left: 14px;
+  font-size: 11.5px;
+  color: var(--text-light);
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
+
+.sobre__credentials li::before {
+  content: "—";
+  position: absolute;
+  left: 0;
+  color: var(--terracotta);
+}
